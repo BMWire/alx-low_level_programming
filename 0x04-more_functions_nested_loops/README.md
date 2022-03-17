@@ -4,3 +4,4 @@
 
 1. 0-isupper.c - Function that checks for uppercase character.
 2. 1-isdigit.c - Function that checks for a digit(0 - 9).
+3. 2-mul.c - Function that multiplies two integers.
