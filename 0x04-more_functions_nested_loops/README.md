@@ -3,3 +3,4 @@
 ## Mandatory
 
 1. 0-isupper.c - Function that checks for uppercase character.
+2. 1-isdigit.c - Function that checks for a digit(0 - 9).
