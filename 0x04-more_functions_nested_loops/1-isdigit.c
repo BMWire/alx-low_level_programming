@@ -3,8 +3,8 @@
 /**
  * _isdigit - check whether the input is a digit
  * @c: character to check
- * 
- * Return: 0 and 1 
+ *
+ * Return: 0 and 1
  */
 
 int _isdigit(int c)
