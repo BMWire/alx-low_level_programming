@@ -1,5 +1,5 @@
 # 0x02-functions_nested_loops
-
+t
 ## Mandatory
 
 1. 0-putchar.c - Script that prints _putchar, followed by a new line. The program should return 0.
@@ -14,4 +14,3 @@
 10. 9-times_table.c - A function that prints the 9 times table starting with 0
 11. 10-add.c - A function that adds two integers and returns the result
 12. 11-print_to_98.c - A function that prints all the natural numbers from n to 98 followed by a new line.
-
