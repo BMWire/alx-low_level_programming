@@ -1,6 +1,6 @@
 # 0x06-pointers_arrays_strings
 
-## Mandatory 
+## Mandatory
 
 1. 0-strcar.c - Function that appends src to the dest string and overwrites the \0 at the end of dest.
 2. 1-strncat.c - Function that appends src to the dest string unconditionally.
