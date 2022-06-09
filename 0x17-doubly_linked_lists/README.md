@@ -11,3 +11,4 @@
 3. 2-add_dnodeint.c - Function that adds a node to the front of a DLL.
 4. 3-add_dnodeint_end.c - Function that adds a node to the end of a DLL.
 5. 4-free_dlistint.c - Function that frees a DLL.
+6. 5-get_dnodeint.c - Function that returns a node at an index from a DLL.
