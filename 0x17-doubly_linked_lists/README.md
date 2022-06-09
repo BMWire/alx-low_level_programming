@@ -14,3 +14,4 @@
 6. 5-get_dnodeint.c - Function that returns a node at an index from a DLL.
 7. 6-sum_dlistint.c - Function that gets the sum of the data in a DLL.
 8. 7-insert_dnodeint.c - Function that inserts a node at a given index in a DLL.
+9. 8-delete_dnodeint.c - Function that deletes a node at a given index in a DLL.
