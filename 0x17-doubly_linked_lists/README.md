@@ -15,3 +15,9 @@
 7. 6-sum_dlistint.c - Function that gets the sum of the data in a DLL.
 8. 7-insert_dnodeint.c - Function that inserts a node at a given index in a DLL.
 9. 8-delete_dnodeint.c - Function that deletes a node at a given index in a DLL.
+
+## Advanced
+
+1. 100-password - Password for crackme4
+2. 102-result - Longest palindrome formed by 3*3 digit multiplication
+3. 105-keygen - Keygen for crackme5
