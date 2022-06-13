@@ -10,5 +10,6 @@
 0x03-debugging/trials.c
 0x03-debugging/a.out
 
+0x18-dynamic_libraries/*.c
+0x18-dynamic_libraries/*.o
 
-# *-main.c
