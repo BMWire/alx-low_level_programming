@@ -17,3 +17,7 @@ Covers variables and control structures like: if-else and while
 ## 0x02-functions_nested_loops
 
 Covers functions with nested loops
+
+## 0x1C-makefiles
+
+Covers the creation of makefiles
